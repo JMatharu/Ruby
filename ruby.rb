@@ -1,5 +1,0 @@
-print "This is my first ruby lesson"
-puts "This is my Second Line"
-print "This is third line"
-puts "My gun is my only friend"
-puts "My gun is my my"
