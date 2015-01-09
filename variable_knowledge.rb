@@ -5,4 +5,4 @@ puts "Enter Value of A"
 puts "Enter Value of B"
  b = gets.to_i
   result = a - b +100
-puts result
+puts "Result is : #{result}"
