@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="690c350b-4074-4e9e-9345-4a74e75cce86" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Ruby Learning.iml" afterPath="$PROJECT_DIR$/.idea/Ruby Learning.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Ruby Learning.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -21,6 +20,7 @@
     <SUITE FILE_PATH="coverage/Ruby Learning@ruby.coverage" NAME="ruby Coverage Results" MODIFIED="1420799299549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby Learning" />
     <SUITE FILE_PATH="coverage/Ruby Learning@Name_age_salary.coverage" NAME="Name_age_salary Coverage Results" MODIFIED="1420961679012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby Learning" />
     <SUITE FILE_PATH="coverage/Ruby Learning@swapping_two_numbers.coverage" NAME="swapping_two_numbers Coverage Results" MODIFIED="1420800218330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby Learning" />
+    <SUITE FILE_PATH="coverage/Ruby Learning@find_simple_interest.coverage" NAME="find_simple_interest Coverage Results" MODIFIED="1420986372679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby Learning" />
     <SUITE FILE_PATH="coverage/Ruby Learning@variable.coverage" NAME="variable Coverage Results" MODIFIED="1420854156101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby Learning" />
     <SUITE FILE_PATH="coverage/Ruby Learning@multiply.coverage" NAME="multiply Coverage Results" MODIFIED="1420854281297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby Learning" />
     <SUITE FILE_PATH="coverage/Ruby Learning@dumb_calculator.coverage" NAME="dumb_calculator Coverage Results" MODIFIED="1420855983387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby Learning" />
@@ -37,11 +37,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="arithmetic_operators.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/arithmetic_operators.rb">
+      <file leaf-file-name="find_simple_interest.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/find_simple_interest.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.18595041" vertical-offset="0" max-vertical-offset="484">
-              <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+            <state vertical-scroll-proportion="0.46487603" vertical-offset="0" max-vertical-offset="484">
+              <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -70,6 +70,7 @@
         <option value="$PROJECT_DIR$/more_user_input_of_data.rb" />
         <option value="$PROJECT_DIR$/exam_result.rb" />
         <option value="$PROJECT_DIR$/arithmetic_operators.rb" />
+        <option value="$PROJECT_DIR$/find_simple_interest.rb" />
       </list>
     </option>
   </component>
@@ -139,29 +140,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/variable_knowledge.rb" />
     <property name="restartRequiresConfirmation" value="true" />
   </component>
-  <component name="RunManager" selected="Ruby.arithmetic_operators">
-    <configuration default="false" name="dumb_calculator" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="Ruby Learning" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/dumb_calculator.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <RunnerSettings RunnerId="RubyRunner" />
-      <ConfigurationWrapper RunnerId="RubyRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Ruby.find_simple_interest">
     <configuration default="false" name="Name_age_salary" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="Ruby Learning" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -245,6 +224,28 @@
       </EXTENSION>
       <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/arithmetic_operators.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="find_simple_interest" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="Ruby Learning" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/find_simple_interest.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <RunnerSettings RunnerId="RubyRunner" />
       <ConfigurationWrapper RunnerId="RubyRunner" />
@@ -335,19 +336,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Ruby.ruby" />
-      <item index="1" class="java.lang.String" itemvalue="Ruby.dumb_calculator" />
-      <item index="2" class="java.lang.String" itemvalue="Ruby.Name_age_salary" />
-      <item index="3" class="java.lang.String" itemvalue="Ruby.more_user_input_of_data" />
-      <item index="4" class="java.lang.String" itemvalue="Ruby.exam_result" />
-      <item index="5" class="java.lang.String" itemvalue="Ruby.arithmetic_operators" />
+      <item index="1" class="java.lang.String" itemvalue="Ruby.Name_age_salary" />
+      <item index="2" class="java.lang.String" itemvalue="Ruby.more_user_input_of_data" />
+      <item index="3" class="java.lang.String" itemvalue="Ruby.exam_result" />
+      <item index="4" class="java.lang.String" itemvalue="Ruby.arithmetic_operators" />
+      <item index="5" class="java.lang.String" itemvalue="Ruby.find_simple_interest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Ruby.arithmetic_operators" />
-        <item index="1" class="java.lang.String" itemvalue="Ruby.exam_result" />
-        <item index="2" class="java.lang.String" itemvalue="Ruby.more_user_input_of_data" />
-        <item index="3" class="java.lang.String" itemvalue="Ruby.Name_age_salary" />
-        <item index="4" class="java.lang.String" itemvalue="Ruby.dumb_calculator" />
+        <item index="0" class="java.lang.String" itemvalue="Ruby.find_simple_interest" />
+        <item index="1" class="java.lang.String" itemvalue="Ruby.arithmetic_operators" />
+        <item index="2" class="java.lang.String" itemvalue="Ruby.exam_result" />
+        <item index="3" class="java.lang.String" itemvalue="Ruby.more_user_input_of_data" />
+        <item index="4" class="java.lang.String" itemvalue="Ruby.Name_age_salary" />
       </list>
     </recent_temporary>
   </component>
@@ -370,7 +371,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="724" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -504,6 +505,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.18595041" vertical-offset="0" max-vertical-offset="484">
           <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/find_simple_interest.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46487603" vertical-offset="0" max-vertical-offset="484">
+          <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
           <folding />
         </state>
       </provider>
