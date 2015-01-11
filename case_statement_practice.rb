@@ -5,14 +5,14 @@ print "Enter the age : "
 
 case age
   when 0 .. 2
-    puts "baby"
+    puts "Output : baby"
   when 3 .. 6
-    puts "little child"
+    puts "Output : little child"
   when 7 .. 12
-    puts "child"
+    puts "Output : child"
   when 13 .. 18
-    puts "youth"
+    puts "Output : youth"
   else
-    puts "adult"
+    puts "Output : adult"
 
 end
