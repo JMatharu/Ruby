@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="690c350b-4074-4e9e-9345-4a74e75cce86" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case_statement_practice.rb" afterPath="$PROJECT_DIR$/case_statement_practice.rb" />
-    </list>
+    <list default="true" id="690c350b-4074-4e9e-9345-4a74e75cce86" name="Default" comment="" />
     <ignored path="Ruby Learning.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,17 +12,18 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Ruby Learning@arithmetic_operators.coverage" NAME="arithmetic_operators Coverage Results" MODIFIED="1420985551235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby Learning" />
     <SUITE FILE_PATH="coverage/Ruby Learning@exam_result.coverage" NAME="exam_result Coverage Results" MODIFIED="1420972754849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby Learning" />
-    <SUITE FILE_PATH="coverage/Ruby Learning@more_user_input_of_data.coverage" NAME="more_user_input_of_data Coverage Results" MODIFIED="1420961986474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby Learning" />
     <SUITE FILE_PATH="coverage/Ruby Learning@ruby.coverage" NAME="ruby Coverage Results" MODIFIED="1420799299549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby Learning" />
+    <SUITE FILE_PATH="coverage/Ruby Learning@if_else_statements.coverage" NAME="if_else_statements Coverage Results" MODIFIED="1420988281792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby Learning" />
     <SUITE FILE_PATH="coverage/Ruby Learning@Name_age_salary.coverage" NAME="Name_age_salary Coverage Results" MODIFIED="1420961679012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby Learning" />
     <SUITE FILE_PATH="coverage/Ruby Learning@degree_to_ahrenheit_converter.coverage" NAME="degree_to_ahrenheit_converter Coverage Results" MODIFIED="1420986985917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby Learning" />
     <SUITE FILE_PATH="coverage/Ruby Learning@swapping_two_numbers.coverage" NAME="swapping_two_numbers Coverage Results" MODIFIED="1420800218330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby Learning" />
     <SUITE FILE_PATH="coverage/Ruby Learning@find_simple_interest.coverage" NAME="find_simple_interest Coverage Results" MODIFIED="1420986372679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby Learning" />
-    <SUITE FILE_PATH="coverage/Ruby Learning@case_statement_practice.coverage" NAME="case_statement_practice Coverage Results" MODIFIED="1420987746177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby Learning" />
-    <SUITE FILE_PATH="coverage/Ruby Learning@variable.coverage" NAME="variable Coverage Results" MODIFIED="1420854156101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby Learning" />
     <SUITE FILE_PATH="coverage/Ruby Learning@multiply.coverage" NAME="multiply Coverage Results" MODIFIED="1420854281297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby Learning" />
+    <SUITE FILE_PATH="coverage/Ruby Learning@variable.coverage" NAME="variable Coverage Results" MODIFIED="1420854156101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby Learning" />
+    <SUITE FILE_PATH="coverage/Ruby Learning@case_statement_practice.coverage" NAME="case_statement_practice Coverage Results" MODIFIED="1420987746177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby Learning" />
+    <SUITE FILE_PATH="coverage/Ruby Learning@more_user_input_of_data.coverage" NAME="more_user_input_of_data Coverage Results" MODIFIED="1420961986474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby Learning" />
+    <SUITE FILE_PATH="coverage/Ruby Learning@arithmetic_operators.coverage" NAME="arithmetic_operators Coverage Results" MODIFIED="1420985551235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby Learning" />
     <SUITE FILE_PATH="coverage/Ruby Learning@dumb_calculator.coverage" NAME="dumb_calculator Coverage Results" MODIFIED="1420855983387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby Learning" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -39,11 +38,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="case_statement_practice.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/case_statement_practice.rb">
+      <file leaf-file-name="if_else_statements.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/if_else_statements.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4527163" vertical-offset="0" max-vertical-offset="497">
-              <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.30181086" vertical-offset="0" max-vertical-offset="497">
+              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -75,6 +74,7 @@
         <option value="$PROJECT_DIR$/find_simple_interest.rb" />
         <option value="$PROJECT_DIR$/degree_to_ahrenheit_converter.rb" />
         <option value="$PROJECT_DIR$/case_statement_practice.rb" />
+        <option value="$PROJECT_DIR$/if_else_statements.rb" />
       </list>
     </option>
   </component>
@@ -144,29 +144,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/variable_knowledge.rb" />
     <property name="restartRequiresConfirmation" value="true" />
   </component>
-  <component name="RunManager" selected="Ruby.case_statement_practice">
-    <configuration default="false" name="exam_result" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="Ruby Learning" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/exam_result.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <RunnerSettings RunnerId="RubyRunner" />
-      <ConfigurationWrapper RunnerId="RubyRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Ruby.if_else_statements">
     <configuration default="false" name="arithmetic_operators" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="Ruby Learning" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -250,6 +228,28 @@
       </EXTENSION>
       <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/case_statement_practice.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="if_else_statements" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="Ruby Learning" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/if_else_statements.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <RunnerSettings RunnerId="RubyRunner" />
       <ConfigurationWrapper RunnerId="RubyRunner" />
@@ -340,19 +340,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Ruby.ruby" />
-      <item index="1" class="java.lang.String" itemvalue="Ruby.exam_result" />
-      <item index="2" class="java.lang.String" itemvalue="Ruby.arithmetic_operators" />
-      <item index="3" class="java.lang.String" itemvalue="Ruby.find_simple_interest" />
-      <item index="4" class="java.lang.String" itemvalue="Ruby.degree_to_ahrenheit_converter" />
-      <item index="5" class="java.lang.String" itemvalue="Ruby.case_statement_practice" />
+      <item index="1" class="java.lang.String" itemvalue="Ruby.arithmetic_operators" />
+      <item index="2" class="java.lang.String" itemvalue="Ruby.find_simple_interest" />
+      <item index="3" class="java.lang.String" itemvalue="Ruby.degree_to_ahrenheit_converter" />
+      <item index="4" class="java.lang.String" itemvalue="Ruby.case_statement_practice" />
+      <item index="5" class="java.lang.String" itemvalue="Ruby.if_else_statements" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Ruby.case_statement_practice" />
-        <item index="1" class="java.lang.String" itemvalue="Ruby.degree_to_ahrenheit_converter" />
-        <item index="2" class="java.lang.String" itemvalue="Ruby.find_simple_interest" />
-        <item index="3" class="java.lang.String" itemvalue="Ruby.arithmetic_operators" />
-        <item index="4" class="java.lang.String" itemvalue="Ruby.exam_result" />
+        <item index="0" class="java.lang.String" itemvalue="Ruby.if_else_statements" />
+        <item index="1" class="java.lang.String" itemvalue="Ruby.case_statement_practice" />
+        <item index="2" class="java.lang.String" itemvalue="Ruby.degree_to_ahrenheit_converter" />
+        <item index="3" class="java.lang.String" itemvalue="Ruby.find_simple_interest" />
+        <item index="4" class="java.lang.String" itemvalue="Ruby.arithmetic_operators" />
       </list>
     </recent_temporary>
   </component>
@@ -375,7 +375,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="724" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -386,7 +386,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2290749" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2290749" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2290749" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -533,6 +533,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4527163" vertical-offset="0" max-vertical-offset="497">
           <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/if_else_statements.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30181086" vertical-offset="0" max-vertical-offset="497">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
           <folding />
         </state>
       </provider>
